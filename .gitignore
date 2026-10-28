@@ -1,0 +1,9 @@
+# release packages and notes are made on the side
+arsenal-mastery-*.zip
+notes.md
+
+# editor and system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
